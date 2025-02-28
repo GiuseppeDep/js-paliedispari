@@ -17,3 +17,6 @@ reverseWord = reverseWord + curLetter;
 return reverseWord === wordToCheck;
 
  }
+
+
+
